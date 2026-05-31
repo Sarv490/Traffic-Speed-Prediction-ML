@@ -1,0 +1,8 @@
+Start,End,Distance_km,SPEED,BUS_COUNT,NUM_READS,HOUR,REGION,DAY_OF_WEEK,MONTH,Predicted_Risk
+A,B,5,30,5,200,8,North,Monday,Jan,30.0
+A,C,10,25,2,150,9,North,Monday,Jan,24.990000000000006
+B,C,3,40,3,180,8,East,Monday,Jan,39.9906
+B,D,8,35,1,100,10,East,Tuesday,Jan,35.01
+C,D,2,20,6,250,9,South,Tuesday,Feb,20.009999999999994
+C,E,7,50,2,90,11,South,Wednesday,Feb,49.99180000000001
+D,E,4,45,0,120,12,West,Wednesday,Feb,45.0
